@@ -5,6 +5,7 @@ It tests two attacks, DDoS and Low-Rate TCP DoS, and compares three cases:
 no defence, a static rate-limit firewall, and an ML-based detect-and-block defence.
 
 Authors: J. Jerusha Gracie and K.T. Subasri
+
 Department of Electronics and Communication Engineering, Christ the King Engineering College
 
 ## What it does
